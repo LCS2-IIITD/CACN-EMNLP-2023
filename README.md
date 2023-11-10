@@ -1,7 +1,7 @@
 # CACN-EMNLP-2023
 
 
-This repository contains the code and resources related to the paper "<b>From Chaos to Clarity: Claim Normalization to Empower Fact-Checking</b>". If you find our work useful, please consider citing our paper:</p>
+This repository contains the code and resources related to the paper "<b>From Chaos to Clarity: Claim Normalization to Empower Fact-Checking</b>". If you find our work helpful, please consider citing our paper:</p>
 
 ```bibtex
  @article{sundriyal2023chaos,
@@ -12,14 +12,11 @@ This repository contains the code and resources related to the paper "<b>From Ch
     }
 ```
 
-<H2>Requirements</h2>
-
-
 
 <h2>Getting Started</h2>
 
 <h3>Dataset</h3>
-<p>A sample of the dataset is provided in the <code>CLAN_samples.csv</code> file. Please note that this is just a small subset for demonstration purposes. If you need the complete dataset, please contact the authors.</p>
+<p>A sample of the dataset is provided in the <code>CLAN-samples.csv</code> file. Please note that this is just a small subset for demonstration purposes. If you need the complete dataset, please contact the authors.</p>
 
 
 
@@ -39,7 +36,6 @@ cd CACN-EMNLP-2023
 ```bash 
 . openai == 0.28.0
 . pandas == 1.5.3
-. openai == 0.28.0
 . csv == 1.0
 . re == 2.2.1
 . nltk == 3.8.1
