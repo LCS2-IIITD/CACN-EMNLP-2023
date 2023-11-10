@@ -1,8 +1,4 @@
 # CACN-EMNLP-2023
-
-<!DOCTYPE html>
-<html>
-
 <head>
     <title>From Chaos to Clarity: Claim Normalization to Empower Fact-Checking</title>
 </head>
@@ -63,5 +59,3 @@ python main.py
     </ol>
 
 </body>
-
-</html>
