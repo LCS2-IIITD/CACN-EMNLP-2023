@@ -1,0 +1,106 @@
+ain't: am not
+arent: are not
+aren't: are not
+cant: can not
+can't: can not
+couldn't: could not
+didn't: did not
+doesn't: does not
+don't: do not
+hadn't: had not
+hasn't: has not
+haven't: have not
+he'd: he had
+he'll: he will
+he's: he is
+I'd: i had
+I'll: i will
+I'm: i am
+I've: i have
+Isn't: is not
+It's: it is
+Let's: let us
+Ma'am: madam
+mightn't: might not
+mustn't: must not
+shan't: shall not
+she'd: she had
+she'll: she will
+she's: she is
+shouldnt: should not
+shouldn't: should not
+that's: that is
+there's: there is
+they'd: they had
+they'll: they will
+they're: they are
+they've: they have
+wasn't: was not
+we'd: we had
+we're: we are
+we've: we have
+weren't: were not
+what'll: what will
+what're: what are
+what's: what is
+what've: what have
+where's: where is
+who'd: who had
+who'll: who will
+who're: who are
+who's: who is
+who've: who have
+won't: will not
+wouldn't: would not
+you'd: you had
+you'll: you will
+you're: you are
+you've: you have
+U.S.: United States
+Coronavirus: Covid
+corona: Covid 
+Corona: Covid
+Covid-19: Covid
+Rd.: Road
+Blvd.: Boulevard
+Jan.: January
+Feb.: February
+Mar.: March
+Apr.: April
+Aug.: August
+Sept.: September
+Oct.: October
+Nov.: November
+Dec.: December
+Gov.: Governor
+Sen.: Senator
+Rep.: Representative
+Prof.: Professor
+CEO: Chief Executive Officer
+CFO: Chief Financial Officer
+COO: Chief Operating Officer
+VP: Vice President
+PhD: Doctor of Philosophy
+ASAP: As Soon As Possible
+FYI: For Your Information
+TBD: To Be Determined
+DIY: Do It Yourself
+RSVP: Répondez S'il Vous Plaît
+ETA: Estimated Time of Arrival
+FAQ: Frequently Asked Questions
+ATM: Automated Teller Machine
+ICU: Intensive Care Unit
+LGBTQ: Lesbian, Gay, Bisexual, Transgender, Queer
+POTUS: President of the United States
+FLOTUS: First Lady of the United States
+SCOTUS: Supreme Court of the United States
+NATO: North Atlantic Treaty Organization
+UN: United Nations
+EU: European Union
+NASA: National Aeronautics and Space Administration
+FBI: Federal Bureau of Investigation
+CIA: Central Intelligence Agency
+IRS: Internal Revenue Service
+FAA: Federal Aviation Administration
+EPA: Environmental Protection Agency
+FDA: Food and Drug Administration
